@@ -4,6 +4,7 @@
   "description": "chat app for PME",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "dev": "supervisor src/index.js"
   },
   "author": "vidhyanand",
